@@ -1,0 +1,38 @@
+#container {
+  height: 300px;
+  width: 420px;
+  margin-top: 13%;
+  margin-left: 35%;
+}
+hr {
+  padding-bottom: 0px;
+}
+ul {
+  display: flex;
+  list-style: none;
+  padding-left: 0px;
+}
+img {
+  height: 100px;
+  width: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* img #i2,
+#i3,
+#i2 {
+  border-left: solid;
+}
+
+img #i5,
+#i6,
+#i5 {
+  border-left: solid;
+}
+
+img #i8,
+#i9,
+#i8 {
+  border-left: solid;
+} */
